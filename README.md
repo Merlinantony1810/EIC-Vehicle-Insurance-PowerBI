@@ -12,6 +12,8 @@ The goal of this project is to explore insurance premium and claims trends, iden
 - Exploratory data analysis (EDA)
 - KPI tracking and reporting
 
+<img width="976" height="550" alt="Dashboard" src="https://github.com/user-attachments/assets/cc08e7c0-af34-4ff4-b504-a0d4f2295af7" />
+
 ## Dataset
 - [Vehicle Insurance Dataset](https://lnkd.in/eATGKnqd)
 
@@ -25,6 +27,8 @@ The goal of this project is to explore insurance premium and claims trends, iden
 - Premium growth lagged behind claims in critical years
 - Trucks and station wagons contributed to most insurance exposure
 - The dashboard helps surface hidden patterns, enabling data-driven decisions
+
+  
 
 ## Usage
 1. Open `EIC_Insurance_Analysis.pbix` in Power BI Desktop.
